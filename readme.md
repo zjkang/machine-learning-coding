@@ -6,11 +6,11 @@
 - K-nearest neighbors
   
 * Neural networks
- - Perceptron
- - FeedForward NN
- - Convolution
- - CNN
- - RNN
- - Encoder-Decoder
+  - Perceptron
+  - FeedForward NN
+  - Convolution
+  - CNN
+  - RNN
+  - Encoder-Decoder
 
 ## NLP Algorithms
